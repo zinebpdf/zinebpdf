@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zinebpdf
 - 👀 I’m interested in coding and programming...
-- 🌱 I’m currently learning python, html and css (not javascript yet but I'm willing to).
-- 💞️ I’m looking to collaborate on I don't know yet to be honest, I'm new to this so I'm just experimenting, hoping I can make interesting projects in the future ! 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning html and css and javascript.
+- 💞️ I’m currently working on a tool for riso printing (using a bunch of libre libraries)
 - 😄 Pronouns: <3
 - ⚡ Fun fact: I like to draw and paint <3
 
